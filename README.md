@@ -1,7 +1,7 @@
 Digital_Infrared_Temperature_Sensor_MLX90615
 --------------------------------
 
-This Grove - Digital Infrared Temperature Sensor is baseed on MLX90615 which is a high resolution infra Red thermometer for noncontact temperature measurements,readout resolution is 0.02 Celcius.Factory calibrated in wide temperature range:-40~85 cilcius for sensor temperarure and -40~115 cilcius for object temperature.The thermometer is factory calibrated with the digital SMBus compatible interface enabled,but the our Arduino/Seeeduino library is based on a soft i2c library,you can use any pins on any AVR chip to drive the SDA and SCL lines.
+This Grove - Digital Infrared Temperature Sensor is baseed on MLX90615 which is a high resolution infra Red thermometer for noncontact temperature measurements,readout resolution is 0.02 Celcius. Factory calibrated in wide temperature range:-40~85 cilcius for sensor temperarure and -40~115 degrees Celsius for object temperature.The thermometer is factory calibrated with the digital SMBus compatible interface enabled,but the our Arduino/Seeeduino library is based on a soft i2c library,you can use any pins on any AVR chip to drive the SDA and SCL lines.
 
 ### Usage:
 
